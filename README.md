@@ -14,7 +14,7 @@ Have a browse around and see what I've been working on.
 
 ## 🚨 Threat Hunting and Security Operations
 
-...work in progress...
+[Employee Unauthorized Application Usage - Threat Hunt Scenario](https://github.com/cyberwizard-lab/threat-hunting-scenario-tor)
 <!-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cyberwizard-lab/threat-hunting-scenario-tor)**
 -->
 <hr/>
