@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/jordan-bowser-2848782b2/">Jordan Bowser</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm Jordan, and I love to build things, break things, simulate threats, and defend things. Here I post some of my project work, from OT threat detection, IT Enterprise vulnerability management, and security operations. 
+I'm Jordan. I sometimes go by CyberWizard online - and I love to build things, break things, simulate threats, and defend things. Here I post some of my project work, from OT threat detection, IT Enterprise vulnerability management, and security operations. 
 
 Have a browse around and see what I've been working on.
 
@@ -12,6 +12,10 @@ Have a browse around and see what I've been working on.
 
 [Employee Unauthorized Application Usage - Threat Hunt Scenario](https://github.com/cyberwizard-lab/threat-hunting-scenario-tor)
 <hr/>
+
+## 🧙 Wizard School - Additional Cyber Projects in OT and IT Security
+
+[Wizard School](https://wizard-school.hashnode.dev/)
 
 ## 🤳 Connect With Me
 
