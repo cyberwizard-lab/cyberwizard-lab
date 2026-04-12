@@ -8,6 +8,8 @@ Have a browse around and see what I've been working on.
 
 [CyberWizard's Vulnerability Management Program](https://github.com/cyberwizard-lab/vulnerability-management-program/blob/main/README.md)
 
+[Vulnerability Remediations ](https://github.com/cyberwizard-lab/Vulnerability-Remediations)
+
 ## 🚨 Threat Hunting and Security Operations
 
 [Employee Unauthorized Application Usage - Threat Hunt Scenario](https://github.com/cyberwizard-lab/threat-hunting-scenario-tor)
