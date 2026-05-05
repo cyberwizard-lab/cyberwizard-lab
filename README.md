@@ -13,7 +13,15 @@ Have a browse around and see what I've been working on.
 ## 🚨 Threat Hunting and Security Operations
 
 [Employee Unauthorized Application Usage - Threat Hunt Scenario](https://github.com/cyberwizard-lab/threat-hunting-scenario-tor)
+
+[Building A Mini-SOC Lab: SSH Authentication Triage Using Journald And Python on Linux](https://wizard-school.hashnode.dev/building-a-mini-soc-lab-ssh-authentication-triage)
 <hr/>
+
+## Securing Industrial Control Systems & Operational Technology
+
+[Observing Baseline vs Anomalous Modbus Traffic: A Beginner’s ICS/OT Security Lab](https://wizard-school.hashnode.dev/observing-baseline-vs-anomalous-modbus-traffic-a-beginners-icsot-security-lab)
+
+[Asset Context and Alert Severity in ICS/OT: Why the Same Activity Can Mean Very Different Things](https://wizard-school.hashnode.dev/asset-context-and-alert-severity-in-icsot-why-the-same-activity-can-mean-very-different-things)
 
 ## 🧙 Wizard School - Additional Cyber Projects in OT and IT Security
 
