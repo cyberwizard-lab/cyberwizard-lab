@@ -15,7 +15,6 @@ Have a browse around and see what I've been working on.
 [Employee Unauthorized Application Usage - Threat Hunt Scenario](https://github.com/cyberwizard-lab/threat-hunting-scenario-tor)
 
 [Building A Mini-SOC Lab: SSH Authentication Triage Using Journald And Python on Linux](https://wizard-school.hashnode.dev/building-a-mini-soc-lab-ssh-authentication-triage)
-<hr/>
 
 ## Securing Industrial Control Systems & Operational Technology
 
